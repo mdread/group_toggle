@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: GroupToggle Shortcode
- * Plugin URI: http://caoticode.net
+ * Plugin URI: https://github.com/mdread/group_toggle
  * Description: This plugin adds a shortcode(group_toggle) to toggle visibility of a group of objects.
  * Version: 1.0.0
  * Author: Daniel Camarda
- * Author URI: http://caoticode.net
+ * Author URI: https://github.com/mdread
  * License: MIT
  */
 
